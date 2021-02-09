@@ -15,7 +15,6 @@ main {
 }
 
 #display {
-  background-color: red;
   height: 1000px;
   width: 1000px;
 }
@@ -31,10 +30,10 @@ main {
 
 #palette div {
   --0: #fb0d1c;
-  --1: #2afd2f;
-  --2: #1fb4fb;
+  --1: #7b0000;
+  --2: #00beca;
   --3: #fdad2a;
-  --4: #f828fc;
+  --4: #281714;
 
   width: 200px;
 }
